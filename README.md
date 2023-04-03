@@ -10,6 +10,7 @@ See Task_I.ipynb.
 ---
 
 TASK II
+
 In the folder TASK II. There are two graph neural networks aim to solve the quark/gluon jet classification problem.
 ParticleNet uses the same architecture as the ParticleNet paper arxiv.org/abs/1902.08570 using Tensorflow.
 LorentzNet uses the same architecture as in arxiv.org/abs/2201.08187 the using Pytorch.
